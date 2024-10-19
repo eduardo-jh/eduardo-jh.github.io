@@ -11,35 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biosystems Engineering, University of Arizona, 2024
+* M.S. in Agricultural Engineering & Integrated Water Management, Universidad Autónoma Chapingo, 2017
+* B.S. in Irrigation Engineering, Universidad Autónoma Chapingo, 2010
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024: Postdoctoral Research Fellow
+  * Biosystems Engineering, University of Arizona - Full-time
+  * The Vegetation Index and Phenology Lab research group
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2024: Course Instructor
+  * Biosystems Engineering, University of Arizona - Part-time
+  * Duties includes: Teaching BE 485/585 - Remote Sensing and Data Methods
+  * Supervisor: BE Department
 
-* Summer 2015: Research Assistant
+* Fall 2023: Course Instructor
   * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Duties included: Teaching BE 385 - Presicion Observation with Drones
+  * Supervisor: BE Department
+
+* Spring 2023: Research Assistant
+  * Biosystems Engineering, University of Arizona - Part-time
+  * Duties included: The Vegetation Index and Phenology Lab research group
+  * Supervisor: Kamel Didan
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Remote Sensing
+* Geospatial Analysis
+* Machine Learning
+* Programming
+  * Python, R
+  * C, C++, Arduino
+* GIS
+  * ArGIS Pro
+  * QGIS
 
 Publications
 ======

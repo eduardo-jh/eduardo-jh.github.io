@@ -23,7 +23,7 @@ Work experience
 
 * Spring 2024: Course Instructor
   * Biosystems Engineering, University of Arizona - Part-time
-  * Duties includes: Teaching BE 485/585 - Remote Sensing and Data Methods
+  * Duties includes: Teaching BE 485/585 - Remote Sensing Data and Methods
   * Supervisor: BE Department
 
 * Fall 2023: Course Instructor
